@@ -13,7 +13,7 @@ Você pode baixar a extenção no link abaixo, assim que estiver baixado virá u
 
 Depois vá no seu navegador, e vá me **Gerenciar Extenções**, logo após você apertará no botão **Carregar sem Compactação** e selecione a pasta que você extraiu do arquivo.
 
-:floppy_disk: **Download**: <a href="myFile.js" download>Crunchyroll Premium</a>
+:floppy_disk: **Download**: <a href="CrunchyrollPremium.rar" download>Crunchyroll Premium</a>
 
 Depois de ter adicionado a extenção, você já pode usar a vontade!
 
