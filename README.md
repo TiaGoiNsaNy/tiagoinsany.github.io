@@ -7,7 +7,7 @@ Esse projeto se trata de uma extenção para o **Google**, que permite um usuár
 Assim fazendo uma **Stream** para outro **Player** permitindo a visualização do anime da sua escolha.
 
 ---
-## :computer Modo de Instalação
+## :computer: Modo de Instalação
 
 Você pode baixar a extenção no link abaixo, assim que estiver baixado virá um arquivo na extenção **Winrar**, extraia o arquivo e virá uma pasta com todos os arquivos.
 
